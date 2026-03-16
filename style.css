@@ -35,6 +35,7 @@ img {
 
 #bee, #bee2, #bee3 {
     border: none;
+
 }
 
 #bee, #bee2, #bee3 {
@@ -49,7 +50,7 @@ img {
 button {
 
     display: block;
-    margin: 30px 240px;
+    margin: 30px 235px;
     padding: 15px 25px;
     font-size: 16px;
     border: none;
