@@ -33,6 +33,19 @@ img {
 
 }
 
+#bee, #bee2, #bee3 {
+    border: none;
+}
+
+#bee, #bee2, #bee3 {
+
+    position: absolute;
+    width: 60px;
+    pointer-events: none;
+    border: none;
+
+}
+
 button {
 
     display: block;
@@ -52,6 +65,7 @@ button:hover {
     background-color: #5e1bb5;
 
 }
+
 
 footer {
 
