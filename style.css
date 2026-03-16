@@ -52,3 +52,11 @@ button:hover {
     background-color: #5e1bb5;
 
 }
+
+footer {
+
+    max-width: 800px;
+    margin: auto;
+    text-align: justify;
+
+}
